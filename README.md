@@ -1,4 +1,17 @@
-# jika eror:
+# how to
 
-## JANGAN lakukan ini sebagai fix permanen
+## launch
+
+jalankan melalui TTY1
+
+```
+dbus-run-session mango
+```
+
+## jika eror:
+
+**JANGAN lakukan ini sebagai fix permanen**
+
+```
 sudo ln -s libutf8proc.so.3 /usr/lib64/libutf8proc.so.2
+```
