@@ -62,3 +62,15 @@ brightnessctl set +10%
 brightnessctl set 10%-
 ```
 Harusnya langsung jalan tanpa sudo.
+
+## others modules lives in my porteux modules directory
+
+- exiftool-13.60-x86_64-1cf.xzm
+- firefox-stable-159.0.1-x86_64-en-US_porteux.xzm
+- keepassxc-2.8.0-x86_64_porteux.xzm
+- libva-2.24.1-x86_64-2.xzm
+- neovim-0.12.6-x86_64_porteux.xzm
+- notoserifcjk-regular.xzm
+- python-pip-21.3.1-x86_64-2.xzm
+- tmux-3.8-x86_64-1.xzm
+- wl-clipboard-2.1.0-x86_64-1_slackdce.xzm
